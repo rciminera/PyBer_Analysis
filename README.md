@@ -9,25 +9,24 @@ Rural, Suburban, and Urban. For each of these types I analyzed number of rides, 
 
 The tools used for the analysis were Python, Pandas scripts, Jupyter notebook, and Matplotlib.
 
-The PyBer analysis code can be found here: [PyBer_Analysis.ipynb](PyBerAnalysis_Challenge.ipynb)
+The PyBer analysis code can be found here: [Pyber_Challenge.ipynb] (PyBer_Analysis/blob/main/PyBer_Challenge.ipynb)
 
 ## Results: 
 
 Following are the results of the analysis.
 
-
 In terms of Total Rides, the Urban market had significantly more rides, drivers, and total fares but the average fares per ride and driver were the lowest among the three markets.  See Pyber Summary Dataframe below:
 
-![GitHubLogo](insert link here)
+![GitHubLogo](PyBer_Analysis/blob/main/Pyber%20Screen%20Shots/Pyber%20Dataframe.png)
 
 The weekly Fare by City type analysis in the chart below shows that the ranking of total fares by city type is consistent Urban, Suburban, and Rura; each maintaining their ranking for the first four months of the year.
 
 The variation in Total Fare is most pronounced in the Urban markets, and the trend line for all city types shows a spike in the third week of February which corresponds to Presidents Day vacation week.
 
 
-![GitHubLogo](insert link here)
+![GitHubLogo](PyBer_Analysis/blob/main/Pyber%20Screen%20Shots/Pyber_graph.png)
 
-
+The file with the line plot can be found her: [Pyber_fare_summary.png] (PyBer_Analysis/blob/main/Analysis/PyBer_fare_summary.png)
 
 ## Summary: 
 
