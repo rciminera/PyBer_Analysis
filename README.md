@@ -24,7 +24,7 @@ The weekly Fare by City type analysis in the chart below shows that the ranking 
 The variation in Total Fare is most pronounced in the Urban markets, and the trend line for all city types shows a spike in the third week of February which corresponds to Presidents Day vacation week.
 
 
-![GitHubLogo](PyBer_Analysis/blob/main/Pyber%20Screen%20Shots/Pyber_graph.png)
+![GitHubLogo](%20Screen%20Shots/Pyber_graph.png)
 
 The file with the line plot can be found her: [Pyber_fare_summary.png] (PyBer_Analysis/blob/main/Analysis/PyBer_fare_summary.png)
 
