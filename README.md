@@ -17,7 +17,7 @@ Following are the results of the analysis.
 
 In terms of Total Rides, the Urban market had significantly more rides, drivers, and total fares but the average fares per ride and driver were the lowest among the three markets.  See Pyber Summary Dataframe below:
 
-![GitHubLogo](PyBer_Analysis/blob/main/Pyber%20Screen%20Shots/Pyber%20Dataframe.png)
+![GitHubLogo](https://github.com/rciminera/PyBer_Analysis/blob/main/Pyber%20Screen%20Shots/Pyber%20Dataframe.png)
 
 The weekly Fare by City type analysis in the chart below shows that the ranking of total fares by city type is consistent Urban, Suburban, and Rura; each maintaining their ranking for the first four months of the year.
 
