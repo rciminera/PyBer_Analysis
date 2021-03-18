@@ -9,7 +9,7 @@ Rural, Suburban, and Urban. For each of these types I analyzed number of rides, 
 
 The tools used for the analysis were Python, Pandas scripts, Jupyter notebook, and Matplotlib.
 
-The PyBer analysis code can be found here: [Pyber_Challenge.ipynb] (PyBer_Analysis/blob/main/PyBer_Challenge.ipynb)
+The PyBer analysis code can be found here: [Pyber_Challenge.ipynb](PyBer_Challenge.ipynb)
 
 ## Results: 
 
