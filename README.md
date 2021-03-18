@@ -27,7 +27,7 @@ The variation in Total Fare is most pronounced in the Urban markets, and the tre
 ![GitHubLogo](https://github.com/rciminera/PyBer_Analysis/blob/main/Pyber%20Screen%20Shots/Pyber_graph.png)
 
 
-The file with the line plot can be found here: [Pyber_fare_summary.png] (https://github.com/rciminera/PyBer_Analysis/blob/main/Analysis/PyBer_fare_summary.png)
+The file with the line plot can be found here: [Pyber_fare_summary.png](Analysis/PyBer_fare_summary.png)
 
 ## Summary: 
 
